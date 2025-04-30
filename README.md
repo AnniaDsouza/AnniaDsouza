@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on ERP project<br>🌱 I’m currently perceiving B.E. in CSE<br>⚡ I talk to humans as well as computers
+🔭 I’m currently working on ERP project.<br>🌱 I’m currently perceiving B.E. in CSE<br>⚡ I talk to humans as well as computers
 
 
 ## 🌐 Socials:
